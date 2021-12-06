@@ -7,11 +7,11 @@ div.text {
   margin: 16px;
   border-bottom: 1px dotted black;
 }
-.tooltip:hover {
+div.text:hover .tooltip {
   position: absolute;
   bottom: -40px;
   left: 0;
-  right: 0;
+
   background-color: grey;
   color: white;
   border-radius: 4px;
