@@ -7,11 +7,14 @@ div.text {
   margin: 16px;
   border-bottom: 1px dotted black;
 }
+span.tooltip {
+  display: none;
+}
 div.text:hover .tooltip {
+  display: inline-block;
   position: absolute;
   bottom: -40px;
   left: 0;
-
   background-color: grey;
   color: white;
   border-radius: 4px;
