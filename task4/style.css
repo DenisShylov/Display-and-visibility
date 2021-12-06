@@ -9,7 +9,7 @@ div.text {
 }
 .tooltip {
   position: absolute;
-  top: 22px;
+  bottom: -40px;
   left: 0;
   background-color: grey;
   color: white;
