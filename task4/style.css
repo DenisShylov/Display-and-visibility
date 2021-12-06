@@ -2,12 +2,14 @@
   box-sizing: border-box;
 }
 div.text {
+  visibility: visible;
   display: inline-block;
   position: relative;
   margin: 16px;
   border-bottom: 1px dotted black;
 }
 .tooltip {
+  visibility: visible;
   position: absolute;
   bottom: -40px;
   left: 0;
