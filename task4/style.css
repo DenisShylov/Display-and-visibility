@@ -7,7 +7,7 @@ div.text {
   margin: 16px;
   border-bottom: 1px dotted black;
 }
-.tooltip {
+.tooltip:hover {
   position: absolute;
   bottom: -40px;
   left: 0;
