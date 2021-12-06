@@ -1,6 +1,6 @@
-* {
+/* * {
   box-sizing: border-box;
-}
+} */
 div.text {
   visibility: visible;
   display: inline-block;
@@ -13,6 +13,7 @@ div.text {
   position: absolute;
   bottom: -40px;
   left: 0;
+  right: 0;
   background-color: grey;
   color: white;
   border-radius: 4px;
