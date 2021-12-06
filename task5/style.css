@@ -4,6 +4,7 @@
 .gallery {
   display: flex;
   cursor: all-scroll;
+  overflow: hidden;
 }
 .thumb {
   margin: 8px;
